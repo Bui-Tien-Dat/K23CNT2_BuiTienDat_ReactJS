@@ -8,7 +8,7 @@ import React, { Component } from 'react'
                 {btdId:"NTU001",btdName:"Bui Tien Dat",btdAge:19,btdClass:"K23CNT2"},
                 {btdId:"NTU002",btdName:"Pham Hoang Nam",btdAge:19,btdClass:"K23CNT3"},
                 {btdId:"NTU003",btdName:"Hoang Thi Thu Hoai",btdAge:19,btdClass:"K23CNT1"},
-                {btdId:"NTU004",btdName:"Nguyen Thi Lua",btdAge:19,btdClass:"K23CNT4"},
+                {btdId:"NTU004",btdName:"Nguyen Thi Van Anh",btdAge:19,btdClass:"K23CNT4"},
             ],
         }
     }
