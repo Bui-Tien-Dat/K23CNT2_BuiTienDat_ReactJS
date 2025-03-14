@@ -28,8 +28,11 @@ const BtdApp = () => {
     <div>
       <h1 className="text-center">Quản lý Thành viên</h1>
       <BtdMemberAdd addMember={addMember} />
-      <BtdMemberList members={members} />
-      
+      <BtdMemberList 
+  members={members} 
+  onDelete={handleDeleteMember} 
+  onEdit={handleEditMember} 
+/>
     </div>
   );
 };
