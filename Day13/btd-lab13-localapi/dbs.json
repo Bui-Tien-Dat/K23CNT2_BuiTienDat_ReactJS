@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+        "fullname":"Bui Tien Dat",
+        "age":19,
+        "class":"K23CNT2"
+        },
+        {
+        "fullname":"Pham Van Luc",
+        "age":19,
+        "class":"K23CNT3"
+        },
+        {
+        "fullname":"Nguyen Van A",
+        "age":19,
+        "class":"K23CNT1"
+        }
+    ],
+    "student":[
+        {
+            "studentId":"SV001",
+            "studentName":"Pham Van A"
+        }
+    ]
+}
